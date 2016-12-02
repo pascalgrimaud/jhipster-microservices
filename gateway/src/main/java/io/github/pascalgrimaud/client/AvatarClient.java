@@ -1,5 +1,6 @@
 package io.github.pascalgrimaud.client;
 
+import io.github.pascalgrimaud.client.config.FeignConfiguration;
 import io.github.pascalgrimaud.client.vm.AvatarVM;
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.http.MediaType;
@@ -14,7 +15,7 @@ import java.util.List;
 /**
  * Created by pgrimaud on 02/12/16.
  */
-@FeignClient(name = "micro")
+@FeignClient(name = "micro", fallbackFactory = AvatarFallback.class, configuration = FeignConfiguration.class)
 public interface AvatarClient {
 
     @RequestMapping(value = "/api/avatars",
