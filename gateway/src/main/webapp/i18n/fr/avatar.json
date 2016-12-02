@@ -1,0 +1,27 @@
+{
+    "gatewayApp": {
+        "avatar" : {
+            "home": {
+                "title": "Avatars",
+                "createLabel": "Créer un nouveau Avatar",
+                "createOrEditLabel": "Créer ou éditer un Avatar",
+                "search": "Recherche pour Avatar"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Avatar {{ id }} ?"
+            },
+            "detail": {
+                "title": "Avatar"
+            },
+            "name": "Name",
+            "description": "Description"
+        }
+    },
+    "microApp": {
+        "avatar" : {
+            "created": "Un nouveau Avatar a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Avatar avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Avatar avec l'identifiant {{ param }} a été supprimé"
+        }
+    }
+}
