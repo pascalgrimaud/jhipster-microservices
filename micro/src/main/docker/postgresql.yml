@@ -1,0 +1,12 @@
+version: '2'
+services:
+    micro-postgresql:
+        container_name: micro-postgresql
+        image: postgres:9.5.4
+        # volumes:
+        #     - ~/volumes/jhipster/micro/postgresql/:/var/lib/postgresql/
+        environment:
+            - POSTGRES_USER=micro
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432
