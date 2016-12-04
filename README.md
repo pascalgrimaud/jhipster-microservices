@@ -31,6 +31,7 @@ cd jhipster-registry
 Start the gateway:
 ```
 cd gateway
+yarn
 ./mvnw
 ```
 
