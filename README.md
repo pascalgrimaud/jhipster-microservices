@@ -1,6 +1,12 @@
 # Microservices with JHipster
 
-[![jhipster](_images/logo-jhipster.png)](http://jhipster.github.io/)[![netflix](_images/logo-netflix-oss.png)](https://netflix.github.io/)
+<div align="center">
+  <a href="https://netflix.github.io/"><img src="_images/logo-netflix-oss.png"></a>
+</div>
+
+<div align="center">
+  <a href="http://jhipster.github.io/"><img src="_images/logo-jhipster.png"></a>
+</div>
 
 ## Description
 
