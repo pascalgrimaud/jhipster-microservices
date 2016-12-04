@@ -1,6 +1,6 @@
 # Microservices with JHipster
 
-[![jhipster](_images/logo-jhipster.png)](http://jhipster.github.io/)[![netflix](_images/netflix.png)](https://netflix.github.io/)
+[![jhipster](_images/logo-jhipster.png)](http://jhipster.github.io/)[![netflix](_images/logo-netflix-oss.png)](https://netflix.github.io/)
 
 ## Description
 
