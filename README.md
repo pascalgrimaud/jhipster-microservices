@@ -1,12 +1,12 @@
 # Microservices with JHipster
 
 <div align="center">
+  <a href="http://jhipster.github.io/"><img src="_images/logo-jhipster.png"></a>
+</div>
+<div align="center">
   <a href="https://netflix.github.io/"><img src="_images/logo-netflix-oss.png"></a>
 </div>
 
-<div align="center">
-  <a href="http://jhipster.github.io/"><img src="_images/logo-jhipster.png"></a>
-</div>
 
 ## Description
 
