@@ -53,6 +53,8 @@ Access to the gateway: [http://localhost:8080](http://localhost:8080)
 
 * [JHipster Registry](https://github.com/jhipster/jhipster-registry)
 
+* [Communication between two microservices](https://github.com/jhipster/generator-jhipster/issues/3649)
+
 * Ideas from [PierreBesson/jhipster-circuit-breaker-demo](https://github.com/PierreBesson/jhipster-circuit-breaker-demo)
 
 * The documentation on [Spring Clound Netflix](http://cloud.spring.io/spring-cloud-netflix/spring-cloud-netflix.html)
